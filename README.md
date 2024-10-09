@@ -2,6 +2,10 @@
 
 The following code is an implementation of the paper : Datamodels: Predicting Predictions from Training Data^[1] 
 
+The project team is composed by:
+Capomagi Federico Andrea 1842169
+Pisent Alessandro 2085678
+
 ## How to Run the code
 The code can be run in its completeness in the colab notebooks. All the libraries used and required, like the used dataset, are installed and imported at the beginning of the code, so there is no particolar action needed to run it. 
 
